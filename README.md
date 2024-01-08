@@ -4,7 +4,7 @@ And hello to you too.
 
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://drive.google.com/file/d/1i5Q-nzbyJFOq8k2R6-Ow0UE_atv_W7sl/view?usp=sharing)" width="600" height="300"/>
+  <img src="/home/jamie/projects/gitpage/jamiesash/pictures/IMG-0930.JPG" width="600" height="300"/>
 </div>
 
 <!--
