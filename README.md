@@ -4,7 +4,7 @@ And hello to you too.
 
 
 <div align="center">
-  <img src="/home/jamie/projects/gitpage/jamiesash/pictures/IMG-0930.JPG" width="600" height="300"/>
+  <img src=""https://github.com/jamiesash/jamiesash/blob/main/pictures/IMG-0930.JPG width="600" height="300"/>
 </div>
 
 <!--
