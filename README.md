@@ -1,6 +1,6 @@
-# Hi there 👋
+# Jamie's github page. 
 
-And hello to you too.
+This page contains the repositories for most of the projects I'm working on, or have worked on. 
 
 <div align="center">
   <img src="pictures/IMG-0930.JPG" width="600" height="725"/>
