@@ -1,11 +1,18 @@
 ### Hi there 👋
 
+And hello to you too.
+
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://drive.google.com/file/d/1i5Q-nzbyJFOq8k2R6-Ow0UE_atv_W7sl/view?usp=sharing)" width="600" height="300"/>
+</div>
+
 <!--
 **jamiesash/jamiesash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
