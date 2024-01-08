@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
 And hello to you too.
 
 <div align="center">
-  <img src="pictures/IMG-0930.JPG" width="600" height="800"/>
+  <img src="pictures/IMG-0930.JPG" width="600" height="700"/>
 </div>
 
 <!--
