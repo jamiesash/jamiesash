@@ -3,7 +3,7 @@
 And hello to you too.
 
 <div align="center">
-  <img src="pictures/IMG-0930.JPG" width="600" height="300"/>
+  <img src="pictures/IMG-0930.JPG" width="600" height="800"/>
 </div>
 
 <!--
